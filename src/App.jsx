@@ -9,7 +9,7 @@ import Todos from "./pages/todos/Todos";
 import Users from "./pages/users/Users";
 import Layout from "./pages/layout/Layout";
 import NotFound from "./pages/not-found/NotFound";
-import Login from "./pages/login/login";
+import Login from "./pages/login/Login";
 
 const App = () => {
   return (
