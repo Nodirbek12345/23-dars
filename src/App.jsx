@@ -5,7 +5,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Posts from "./pages/posts/Posts";
 import Comments from "./pages/comments/Comments";
 import Albums from "./pages/albums/Albums";
-import Todos from "./pages/todos/todos";
+import Todos from "./pages/todos/Todos";
 import Users from "./pages/users/Users";
 import Layout from "./pages/layout/Layout";
 import NotFound from "./pages/not-found/NotFound";
