@@ -3,7 +3,7 @@ import Home from "./pages/home/Home";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import Posts from "./pages/posts/Posts";
-import Comments from "./pages/comments/comments";
+import Comments from "./pages/comments/Comments";
 import Albums from "./pages/albums/Albums";
 import Todos from "./pages/todos/todos";
 import Users from "./pages/users/Users";
